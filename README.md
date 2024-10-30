@@ -11,7 +11,7 @@
 🎵 listen to music.
 - 📫 Reach out to me at: <a href="lorenzomuller17@hotmail.com">lorenzomuller17@hotmail.com</a>
 
-## My Skills Include
+<h2  align="center" style="margin: 5px 10px;">My Skills Include</h2>
 
 <h4> Languages </h4>
 <span> 
